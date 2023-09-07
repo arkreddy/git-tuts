@@ -1,2 +1,2 @@
 # git-tuts
-This is Sample Project to Learn Git 
+This is Sample NOT OK Project to Learn Git 
