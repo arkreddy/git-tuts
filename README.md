@@ -1,2 +1,2 @@
 # git-tuts
-This is Sample Project to Learn Git 
+This is Sample Project to Learn Git Hello from arkreddy
